@@ -1,0 +1,16 @@
+{
+    "function": {
+        "prefix": "fn",
+        "scope": "javascript",
+        "body": [
+            "function ${1:name}($2) {",
+            "    ${0://code}",
+            "}"
+        ]
+    },
+    "console.log": {
+        "prefix": "clog",
+        "scope": "javascript",
+        "body": "console.log($0)"
+    }
+}

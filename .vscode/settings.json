@@ -1,0 +1,17 @@
+{
+    "javascript.format.semicolons": "insert",
+    "javascript.inlayHints.enumMemberValues.enabled": true,
+    "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+    "javascript.inlayHints.parameterNames.enabled": "all",
+    "javascript.inlayHints.parameterTypes.enabled": true,
+    "javascript.inlayHints.variableTypes.enabled": true,
+    "javascript.preferences.quoteStyle": "double",
+    "javascript.suggest.completeFunctionCalls": false,
+    "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorStyle": "line-thin",
+    "cSpell.words": [
+        "Tumo"
+    ],
+}
